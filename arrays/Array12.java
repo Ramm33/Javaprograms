@@ -32,6 +32,6 @@ public class Array12 {
 			}
 		}
 
-		System.out.println(Arrays.toString(a3));
+		System.out.print(Arrays.toString(a3));
 	}
 }

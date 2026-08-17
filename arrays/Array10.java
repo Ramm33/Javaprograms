@@ -19,7 +19,7 @@ public class Array10 {
 		System.out.println("A3 Array:");
 
 		for (int i = 0; i < a3.length; i++) {
-			System.out.println(a3[i] + " ");
+			System.out.print(a3[i] + " ");
 		}
 	}
 }
