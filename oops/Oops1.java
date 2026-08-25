@@ -1,3 +1,6 @@
+//concept used for : 
+//Encapsulation the employee variables are private ,
+//and they are accessing through getters and  Setters
 package com.oops;
 
 public class Oops1 {
