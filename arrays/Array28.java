@@ -1,5 +1,3 @@
-//*Java*-
-//
 //1.Write a Java program to perform the following operations on a 3 × 3 integer matrix:
 //Reverse the elements of every even-indexed row (rows 0 and 2).
 //Multiply every element of the odd-indexed row (row 1) by 2, except the middle element (1,1).

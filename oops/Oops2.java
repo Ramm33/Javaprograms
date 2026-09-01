@@ -8,7 +8,7 @@ public class Oops2 {
 
         emp.setEid(4);
         emp.setEname("Karthik ");
-        emp.setSalary(180000);
+        emp.setSalary(180000);  
 
         System.out.println(emp.getEid());
         System.out.println(emp.getEname());

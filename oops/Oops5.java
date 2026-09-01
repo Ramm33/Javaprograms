@@ -1,5 +1,7 @@
 package com.oops;
-//
+//concept used for : 
+//Encapsulation the employee variables are private ,
+//and they are accessing through getters and  Setters
 class BankAccount {
 
     private long accountNo;
