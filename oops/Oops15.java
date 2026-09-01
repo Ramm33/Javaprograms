@@ -1,10 +1,5 @@
 package com.oops;
 
-//Create a Java class named ShoppingCart using Encapsulation.
-//Declare private variables cartItems and totalAmount.
-//Implement addItem(), removeItem(), and getTotal() methods.
-//Add and remove items by updating the cart details appropriately.
-//In the main() method, display the total amount after performing the operations.
 public class Oops15 {
 
 	String cartItems;
