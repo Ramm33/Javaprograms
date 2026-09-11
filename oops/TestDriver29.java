@@ -6,7 +6,7 @@ public class TestDriver29 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Hello Mr.Karthik Welcome :");
+        System.out.println("HELLO WELCOME TO VCUBE UNIVERSITY :");
         System.out.println("1. Engineering Student");
         System.out.println("2. Medical Student");
         System.out.println("3. Management Student");

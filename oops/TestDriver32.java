@@ -12,7 +12,7 @@ public class TestDriver32 {
 
         for (Product31 p : products) {
 
-            System.out.println("-----------------------------");
+            System.out.println("---------------------------");
 
             p.displayProductDetails();
 
